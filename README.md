@@ -59,4 +59,4 @@ Projet e-commerce de matériel médical réalisé dans le cadre du Bachelor 3 D�
 https://github.com/rampontdandremontpro-lgtm/altheashop-frontend
 
 **Backend**
-https://github.com/Tigreg972/ecommerce
+https://github.com/Tigreg972/backend-ath
